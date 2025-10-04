@@ -1,7 +1,7 @@
-const addition = (a,b) => a+b
+// const addition = (a,b) => a+b
 
-function subtraction (a,b) {
-     return a-b
-}
+// function subtraction (a,b) {
+//      return a-b
+// }
 
-module.exports={addition,subtraction}
+// module.exports={addition,subtraction}
